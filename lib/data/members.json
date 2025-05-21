@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m1",
+    "name": "Dr. Robert Smith",
+    "email": "robert.smith@example.com",
+    "phone": "(800) 555-1111",
+    "role": "admin",
+    "permissions": [
+      "manage_colleges",
+      "manage_exams",
+      "manage_students",
+      "manage_members",
+      "view_reports",
+      "upload_results"
+    ],
+    "collegeIds": []
+  },
+  {
+    "id": "m2",
+    "name": "Lisa Johnson",
+    "email": "lisa.johnson@example.com",
+    "phone": "(800) 555-2222",
+    "role": "admin",
+    "permissions": [
+      "manage_colleges",
+      "manage_exams",
+      "manage_students",
+      "view_reports"
+    ],
+    "collegeIds": ["c1", "c2"]
+  },
+  {
+    "id": "m3",
+    "name": "Daniel Kim",
+    "email": "daniel.kim@example.com",
+    "phone": "(800) 555-3333",
+    "role": "employee",
+    "permissions": [
+      "manage_students",
+      "upload_results",
+      "view_reports"
+    ],
+    "collegeIds": ["c3"]
+  },
+  {
+    "id": "m4",
+    "name": "Sarah Mitchell",
+    "email": "sarah.mitchell@example.com",
+    "phone": "(800) 555-4444",
+    "role": "employee",
+    "permissions": [
+      "manage_students",
+      "upload_results"
+    ],
+    "collegeIds": ["c4"]
+  }
+]

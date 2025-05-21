@@ -1,0 +1,134 @@
+[
+  {
+    "id": "s1",
+    "name": "Emma Wilson",
+    "email": "emma.w@example.com",
+    "phone": "(415) 555-7890",
+    "collegeId": "c1",
+    "enrollmentNumber": "W2023001",
+    "program": "Computer Science",
+    "year": 2,
+    "examResults": [
+      {
+        "examId": "e1",
+        "marks": 78,
+        "passed": true
+      },
+      {
+        "examId": "e4",
+        "marks": 65,
+        "passed": true
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "name": "James Martinez",
+    "email": "james.m@example.com",
+    "phone": "(617) 555-3456",
+    "collegeId": "c2",
+    "enrollmentNumber": "M2022089",
+    "program": "Business Administration",
+    "year": 3,
+    "examResults": [
+      {
+        "examId": "e2",
+        "marks": 82,
+        "passed": true
+      },
+      {
+        "examId": "e3",
+        "marks": 91,
+        "passed": true
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "name": "Olivia Chen",
+    "email": "olivia.c@example.com",
+    "phone": "(312) 555-2345",
+    "collegeId": "c3",
+    "enrollmentNumber": "C2023045",
+    "program": "Mechanical Engineering",
+    "year": 2,
+    "examResults": [
+      {
+        "examId": "e1",
+        "marks": 71,
+        "passed": true
+      },
+      {
+        "examId": "e4",
+        "marks": 88,
+        "passed": true
+      }
+    ]
+  },
+  {
+    "id": "s4",
+    "name": "Michael Johnson",
+    "email": "michael.j@example.com",
+    "phone": "(512) 555-6543",
+    "collegeId": "c4",
+    "enrollmentNumber": "J2021112",
+    "program": "Finance",
+    "year": 4,
+    "examResults": [
+      {
+        "examId": "e2",
+        "marks": 75,
+        "passed": true
+      },
+      {
+        "examId": "e3",
+        "marks": 68,
+        "passed": true
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "name": "Sophia Williams",
+    "email": "sophia.w@example.com",
+    "phone": "(415) 555-9876",
+    "collegeId": "c1",
+    "enrollmentNumber": "W2022056",
+    "program": "Computer Science",
+    "year": 3,
+    "examResults": [
+      {
+        "examId": "e1",
+        "marks": 92,
+        "passed": true
+      },
+      {
+        "examId": "e4",
+        "marks": 85,
+        "passed": true
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "name": "Noah Garcia",
+    "email": "noah.g@example.com",
+    "phone": "(617) 555-5432",
+    "collegeId": "c2",
+    "enrollmentNumber": "G2023023",
+    "program": "Marketing",
+    "year": 2,
+    "examResults": [
+      {
+        "examId": "e2",
+        "marks": 67,
+        "passed": true
+      },
+      {
+        "examId": "e3",
+        "marks": 73,
+        "passed": true
+      }
+    ]
+  }
+]

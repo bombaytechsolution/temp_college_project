@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c1",
+    "name": "Westlake University",
+    "location": "San Francisco, CA",
+    "contactEmail": "info@westlake.edu",
+    "contactPhone": "(415) 555-1234",
+    "address": "123 University Ave, San Francisco, CA 94107",
+    "establishedYear": 1985
+  },
+  {
+    "id": "c2",
+    "name": "Eastridge College",
+    "location": "Boston, MA",
+    "contactEmail": "contact@eastridge.edu",
+    "contactPhone": "(617) 555-6789",
+    "address": "456 College Road, Boston, MA 02116",
+    "establishedYear": 1972
+  },
+  {
+    "id": "c3",
+    "name": "Midvale Technical Institute",
+    "location": "Chicago, IL",
+    "contactEmail": "admin@midvale.edu",
+    "contactPhone": "(312) 555-4321",
+    "address": "789 Tech Blvd, Chicago, IL 60607",
+    "establishedYear": 1992
+  },
+  {
+    "id": "c4",
+    "name": "Southpoint University",
+    "location": "Austin, TX",
+    "contactEmail": "info@southpoint.edu",
+    "contactPhone": "(512) 555-9876",
+    "address": "321 Learning Lane, Austin, TX 78712",
+    "establishedYear": 1968
+  }
+]

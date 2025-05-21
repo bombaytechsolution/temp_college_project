@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e1",
+    "name": "Computer Science Fundamentals",
+    "description": "Basic concepts of programming and computer science theory",
+    "collegeIds": ["c1", "c3"],
+    "date": "2025-06-15",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "location": "Main Hall",
+    "totalMarks": 100,
+    "passingMarks": 40,
+    "status": "upcoming"
+  },
+  {
+    "id": "e2",
+    "name": "Advanced Mathematics",
+    "description": "Calculus, Linear Algebra and Statistics",
+    "collegeIds": ["c1", "c2", "c4"],
+    "date": "2025-06-18",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "location": "Mathematics Building",
+    "totalMarks": 100,
+    "passingMarks": 35,
+    "status": "upcoming"
+  },
+  {
+    "id": "e3",
+    "name": "Business Administration",
+    "description": "Principles of management and business operations",
+    "collegeIds": ["c2", "c4"],
+    "date": "2025-05-10",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "location": "Business School Auditorium",
+    "totalMarks": 100,
+    "passingMarks": 45,
+    "status": "completed"
+  },
+  {
+    "id": "e4",
+    "name": "Engineering Mechanics",
+    "description": "Fundamentals of engineering mechanics and materials",
+    "collegeIds": ["c1", "c3"],
+    "date": "2025-05-05",
+    "startTime": "09:30",
+    "endTime": "12:30",
+    "location": "Engineering Block",
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "status": "completed"
+  }
+]
